@@ -1,0 +1,475 @@
+/* font-family: 'Playfair Display', serif; */
+/* font-family: 'Ubuntu', sans-serif; */
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{    
+    width: 90%;        
+    margin: auto;     
+    overflow: hidden;
+    padding: 40px 0;        
+}
+        
+.logo{
+    width: 20%;
+    float: left;
+}
+ .menu{        
+    width: 60%;        
+    float: right;        
+    overflow: hidden;
+}
+.menu ul{
+    
+    color: black;   
+    margin: 0;    
+    padding: 0;    
+    list-style: none;      
+    overflow: hidden;    
+    float: right;    
+}
+.menu ul li{    
+    float: left;    
+    margin-left: 73px;
+    font-family: 'Playfair Display', serif;    
+}
+.menu ul li a{            
+    text-decoration: none;            
+    color: #626262;
+}
+.banner{
+    width: 90%;
+    margin: auto;
+    
+}
+.banner img{
+    width:100% ;
+   
+}
+.photodiary{
+    width: 80%;
+    margin: auto;
+    padding-top:  70px;
+}
+.photodiary h5{
+    color: #b4ad9e;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 550;
+}
+.photodiary h1{
+    
+color: #626264;
+    
+margin: 40px 0px 0px;
+    
+font-family: 'Playfair Display', serif;
+    
+font-size: 33px;
+    
+font-weight: 500;
+}
+
+.photodiary p{
+    color: #626262;
+    font-size: 15px;
+    margin-bottom: 59px;
+    font-family: 'Playfair Display', serif;
+}
+.lifestyle{
+
+width: 80%;
+
+margin: auto;
+
+padding-top: 117px;
+
+overflow: hidden;
+}
+
+.lifestyle1{
+
+width: 47%;
+
+float: left;
+}
+.lifestyle1 img{
+
+width: 100%;
+}
+
+.lifestyle1 h1{color: #626264;
+    margin: 40px 0px 23px;
+    font-family: 'Playfair Display', serif;
+    font-size: 33px;
+    font-weight: 500;}
+
+.lifestyle1 p{
+    color: #626262;
+    font-size: 15px;
+    margin-bottom: 59px;
+    margin-right: 105px;
+    font-family: 'Playfair Display', serif;
+}
+
+
+.lifestyle1 h5{
+    color: #b4ad9e;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 550;
+    padding-top: 28px;
+}
+
+.lifestyle2{
+float: right;
+width: 47%;
+}
+
+.lifestyle2 img{   
+width: 100%;
+}
+
+.lifestyle2 h5{
+    color: #b4ad9e;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 550;
+
+}
+
+.lifestyle2 h1{
+   color: #626264;
+   margin: 40px 0px 23px;
+   font-family: 'Playfair Display', serif;
+   font-size: 33px;
+   font-weight: 500;
+}
+
+.lifestyle2 p{
+    color: #626262;
+    font-size: 15px;
+    margin-bottom: 59px;
+    margin-right: 105px;
+    font-family: 'Playfair Display', serif;
+}
+
+
+
+.lifestyle2 h5{
+    color: #b4ad9e;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 550;
+    padding-top: 28px;
+}
+
+.photodiary_content{
+
+    width: 80%;   
+    margin: auto;    
+    padding-top: 117px;   
+    overflow: hidden;
+    }
+    
+    .photodiary1{
+    
+    width: 47%; 
+    float: left;
+    }
+    .photodiary1 img{   
+    width: 100%;
+    }
+    
+    .photodiary1 h1{
+        color: #626264;
+        margin: 40px 0px 23px;
+        font-family: 'Playfair Display', serif;
+        font-size: 33px;
+        font-weight: 500;
+    }
+    
+    .photodiary1 p{
+        color: #626262;
+        font-size: 15px;
+        margin-bottom: 59px;
+        margin-right: 105px;
+        font-family: 'Playfair Display', serif;
+    }
+    
+    
+    .photodiary1 h5{
+        color: #b4ad9e;
+        font-size: 18px;
+        text-transform: uppercase;
+        margin: 0;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 550;
+        padding-top: 28px;
+    }
+    
+    .photodiary2{
+    float: right;
+    width: 47%;
+    }
+    
+    .photodiary2 img{   
+    width: 100%;
+    }
+    
+    .photodiary2 h5{
+        color: #b4ad9e;
+        font-size: 14px;
+        text-transform: uppercase;
+        margin: 0;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 550;
+    
+    }
+    
+    .photodiary2 h1{
+       color: #626264;
+       margin: 40px 0px 23px;
+       font-family: 'Playfair Display', serif;
+       font-size: 33px;
+       font-weight: 500;
+    }
+    
+    .photodiary2 p{
+        color: #626262;
+        font-size: 15px;
+        margin-bottom: 59px;
+        margin-right: 105px;
+        font-family: 'Playfair Display', serif;
+    }
+    
+    
+    
+    .photodiary2 h5{
+        color: #b4ad9e;
+        font-size: 18px;
+        text-transform: uppercase;
+        margin: 0;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 550;
+        padding-top: 28px;
+    }
+.newsletter{
+    width: 100%;
+    height: 288px;
+    background-color: #f0f0f0;
+}
+.newsletter_content{
+    
+width: 23%;    
+padding: 100px 0;   
+margin: auto;   
+font-size: 16px;   
+letter-spacing: 2px;
+}
+.newsletter_content h1{
+
+color: #333333;
+padding-top: 0px;
+padding-bottom: -7px;
+margin-top: -19px;
+font-family: 'Playfair Display', serif;
+}
+.newsletter_content input{
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid;
+    width: 100%;
+    padding-top: 38px;
+}
+
+.lifestylebottom{
+    width: 80%;   
+    margin: auto;    
+    padding-top: 117px;   
+    overflow: hidden;
+    
+}
+
+.lifestyleb1{
+
+    width: 47%;
+    float: left;
+}
+.lifestyleb1 img{
+    
+    width: 100%;
+    }
+    
+    .lifestyleb1 h1{color: #626264;
+        margin: 40px 0px 23px;
+        font-family: 'Playfair Display', serif;
+        font-size: 33px;
+        font-weight: 500;}
+    
+    .lifestyleb1 p{
+        color: #626262;
+        font-size: 15px;
+        margin-bottom: 59px;
+        margin-right: 105px;
+        font-family: 'Playfair Display', serif;
+    }
+    
+    
+    .lifestyleb1 h5{
+        color: #b4ad9e;
+        font-size: 18px;
+        text-transform: uppercase;
+        margin: 0;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 550;
+        padding-top: 28px;
+    }
+    
+    .lifestyleb2{
+    float: right;
+    width: 47%;
+    }
+    
+    .lifestyleb2 img{   
+    width: 100%;
+    }
+    
+    .lifestyleb2 h5{
+        color: #b4ad9e;
+        font-size: 14px;
+        text-transform: uppercase;
+        margin: 0;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 550;
+    
+    }
+    
+    .lifestyleb2 h1{
+       color: #626264;
+       margin: 40px 0px 23px;
+       font-family: 'Playfair Display', serif;
+       font-size: 33px;
+       font-weight: 500;
+    }
+    
+    .lifestyleb2 p{
+        color: #626262;
+        font-size: 15px;
+        margin-bottom: 59px;
+        margin-right: 105px;
+        font-family: 'Playfair Display', serif;
+    }
+    
+    
+    
+    .lifestyleb2 h5{
+        color: #b4ad9e;
+        font-size: 18px;
+        text-transform: uppercase;
+        margin: 0;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 550;
+        padding-top: 28px;
+    }
+    
+.loadmore{
+
+text-align: center;
+padding: 100px 0;
+
+}
+
+.loadmore button{
+        
+background: transparent;        
+border: 1px solid;        
+width: 154px;        
+padding: 18px 9px;        
+font-size: 22px;        
+font-family: 'Playfair Display', serif;        
+color: #626262;
+}
+
+footer{
+
+width: 100%;
+
+background: #f0f0f0;
+
+padding: 43px 5px;
+}
+.footer_content{
+
+width: 80%;
+
+overflow: hidden;
+
+margin: auto;
+}
+.terms{
+
+float: left;
+}
+
+.terms ul{
+    list-style: none;
+    padding: 10px;
+    overflow: hidden;
+    }
+.terms ul li{
+    
+float: left;
+    
+padding-right: 31px;
+    
+font-size: 17px;
+}
+
+.terms ul li a{
+
+text-decoration: none;
+
+color: #696969;
+}
+
+.social_link{
+
+float: right;
+}
+
+.social_link ul{
+    
+list-style: none;
+    
+overflow: hidden;
+}
+
+.social_link ul li{
+
+padding: 10px;
+
+float: left;
+}
+.social_link ul li a{
+    
+text-decoration: none;
+    
+color: #696969;
+    
+font-size: 17px;
+    
+font-family: 'Playfair Display', serif;
+}
+
+    
+
